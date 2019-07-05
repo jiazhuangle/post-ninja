@@ -1,9 +1,9 @@
 # post-ninja
 
-##Introduction
+## Introduction
 
-##User manual
+## User manual
 
-##Deployment
+## Deployment
 
-##About us
+## About us
