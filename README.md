@@ -2,7 +2,7 @@
 
 
 ## Introduction
-基于puppeteer，进行接口录制和回放。
+基于puppeteer，进行web接口录制和回放。
 
 record.js:录制接口  
 playback.js:回放接口  
@@ -18,3 +18,4 @@ playbackconfig.js:回放配置文件
 
 ## About us
 #author:daoxiaonoodles
+#author:jiazhuangle
