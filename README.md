@@ -20,10 +20,11 @@ js文件介绍：
                 interface_collection:'interface',
 	            interfaceExec_collection:'interfaceExec',
 	            demo_collection:'demo'
-    （3）修改RecordConfig,js的URL来指定默认打开浏览器的网址（默认url:'http://localhost:8080/xxx/login'）。
-    （4）运行Record.js（命令：node Record.js）来进行浏览器录制。
-    （5）录制记录保存在本地MongoDB数据库中。
-     (6)打开Playback.js进行回放。
+    （3）修改RecordConfig.js的URL来指定默认打开浏览器的网址（默认url:'http://localhost:8080/xxx/login'）。
+     (4)修改PlaybackConfig.js的配置信息（host）。
+    （5）运行Record.js（命令：node Record.js）来进行浏览器录制。
+    （6）录制记录保存在本地MongoDB数据库中。
+     (7)打开Playback.js进行回放。
 ## Deployment
     
     环境要求：
@@ -39,6 +40,6 @@ js文件介绍：
     （4）node Playback.js
 ## About us
     
-    我们团队主要致力研发于各类测试软件的研发，并为其相应的项目进行专业的设计与开发。
-    author:daoxiaonoodles
-    author:jiazhuangle
+    航天信息测试开发团队主要致力研发于各类测试软件的研发，并为其相应的项目进行专业的设计与开发。
+    contributor:daoxiaonoodles（https://github.com/daoxiaonoodles）
+    contributor:jiazhuangle（https://github.com/jiazhuangle）
