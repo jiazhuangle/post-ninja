@@ -172,7 +172,7 @@
     "mime": "^2.4.4",
     "mimic-fn": "^1.2.0",
     "minimatch": "^3.0.4",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.5",
     "mkdirp": "^0.5.1",
     "mongodb": "^3.2.7",
     "mongodb-core": "^3.2.7",
