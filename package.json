@@ -228,7 +228,7 @@
     "y18n": "^3.2.1",
     "yallist": "^2.1.2",
     "yargs": "^11.1.0",
-    "yargs-parser": "^9.0.2",
+    "yargs-parser": "^20.0.0",
     "yauzl": "^2.4.1"
   },
   "devDependencies": {},
