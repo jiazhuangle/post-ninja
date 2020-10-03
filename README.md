@@ -40,6 +40,5 @@ js文件介绍：
     （4）node Playback.js
 ## About us
 
-航天信息测试开发团队主要致力研发于各类测试软件的研发，并为其相应的项目进行专业的设计与开发。
     contributor: ![daoxiaonoodles](https://github.com/daoxiaonoodles)
     contributor: ![jiazhuangle](https://github.com/jiazhuangle)
